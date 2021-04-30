@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Roboto+Condensed&display=swap');
+
+
+nav{
+background-color: #e1eec1;
+}
+
+h1{
+color: #00a096; 
+font-family:'Roboto Condensed', sans-serif;
+}
+
+header{
+  height: 550px;
+  background-image: url("../images/pexels-jahoo-clouseau-388415.jpg");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.header-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);  
+}
+
+.itemSpr{
+  background-color: #ec5ab0; 
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.itemSum{
+  background-color: #6cb4f0;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}  
+
+.itemFal{
+  background-color: #f09139;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.itemWin{
+  background-color: #dc73f1;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+
+
